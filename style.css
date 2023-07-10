@@ -144,4 +144,44 @@ body{
 /* section 1 design end */
 
 
+/* section 2 design start */
+
+
+ .section2{
+
+
+      display: flex;
+      height: 70vh;
+      align-items: center;
+      justify-content: center;
+      gap: 120px;
+      text-align: center;
+      background-color: rgba(250, 235, 215, 0.547);
+ }
+
+
+ .section2-title{
+
+    font-size: 40px;
+    font-weight:bolder;
+
+ }
+
+ .section2-discription{
+
+    color: rgba(19, 19, 19, 0.648);
+    font-size: 16px;
+    padding-bottom: 10px;
+ }
+
+ .section2-img{
+
+    height: 380px;
+ }
+
+
+
+/* section 2 design end */
+
+
 
