@@ -275,4 +275,42 @@ body{
 /* section 3 design end */
 
 
+/* footer part start */
+
+footer{
+    margin-top: -30px;
+    padding: 50px 0px;
+    background-color: rgb(22, 22, 22);
+    height: 30vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+footer h1{
+
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+
+footer h6{
+
+    color: rgba(243, 221, 221, 0.648);
+    font-size: 17px;
+}
+
+footer p{
+
+    color: rgba(243, 239, 239, 0.648);
+    font-size: 16px;
+}
+
+
+
+/* footer part end */
+
+
 
