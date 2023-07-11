@@ -185,3 +185,94 @@ body{
 
 
 
+
+/* section 3 design start */
+
+.section3{
+
+    height: 150vh;
+    background-color: rgba(113, 79, 79, 0.386);
+    text-align: center;
+    padding-top: 40px;
+}
+
+.section3-title{
+
+    font-size: 40px;
+    color: black;
+    font-weight: bolder;
+}
+
+
+.section3-discription{
+
+    color: rgba(19, 19, 19, 0.648);
+    font-size: 16px;
+    padding-bottom: 10px;
+
+}
+
+
+.section3-img-style{
+
+    margin-top: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+.section3-img{
+
+    height: 300px;
+    border-radius: 15px;
+}
+
+
+.subscription-part{
+
+    margin: 0px 210px;
+    background-image: url(Image/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    padding: 200px 50px;
+    border-radius: 15px;
+}
+
+
+.subscription-title{
+
+    font-size: 40px;
+    color: black;
+    font-weight: bolder;
+}
+
+.subscription-discription{
+
+    color: rgba(19, 19, 19, 0.648);
+    font-size: 16px;
+    padding-bottom: 10px;
+
+}
+
+.subscription-input{
+
+    padding: 15px 0px;
+    width: 450px;
+    border-radius: 10px;
+    text-align:center;
+   
+}
+
+.subscription-input ::placeholder{
+    padding-left: 10px;
+}
+
+
+
+/* section 3 design end */
+
+
+
