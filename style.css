@@ -4,7 +4,7 @@ body{
 
     margin: 0;
     padding: 0;
-    
+    border: 5px solid grey;
 }  
 
 
@@ -17,7 +17,7 @@ body{
     justify-content: space-around;
     align-items: center;
     padding: 50px 120px;
-    background-color: rgba(56, 35, 9, 0.37);
+    background-color: rgba(167, 137, 100, 0.37);
 
 }
 
@@ -67,7 +67,7 @@ body{
     height: 170vh;
     margin-top: -33px;
     text-align: center;
-    background-color: rgba(58, 93, 31, 0.222);
+    background-color: rgba(147, 117, 140, 0.538);
 }
 
 .section1-title{
@@ -137,7 +137,7 @@ body{
     padding: 50px 30px;
     margin: 140px 200px;
     border-radius: 35px;
-    background-color: bisque;
+    background-color: rgba(58, 106, 123, 0.522);
 }
 
 
@@ -156,7 +156,7 @@ body{
       justify-content: center;
       gap: 120px;
       text-align: center;
-      background-color: rgba(250, 235, 215, 0.547);
+      background-color: rgba(109, 70, 70, 0.547);
  }
 
 
@@ -191,7 +191,7 @@ body{
 .section3{
 
     height: 150vh;
-    background-color: rgba(113, 79, 79, 0.386);
+    background-color: rgba(118, 73, 59, 0.523);
     text-align: center;
     padding-top: 40px;
 }
@@ -293,6 +293,7 @@ footer h1{
     font-size: 40px;
     text-align: center;
     font-weight: bolder;
+    
 }
 
 
